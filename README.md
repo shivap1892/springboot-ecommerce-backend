@@ -1,6 +1,6 @@
- Spring Boot JWT Authentication Backend
+🚀 Spring Boot JWT Authentication Backend
 
- Project Overview
+📌 Project Overview
 
 This project is a Spring Boot REST API that implements JWT-based authentication and authorization.
 
@@ -8,7 +8,7 @@ It provides secure APIs for user management and product access using token-based
 
 ---
 
- Tech Stack
+🛠️ Tech Stack
 
 - Java 17
 - Spring Boot
@@ -20,7 +20,7 @@ It provides secure APIs for user management and product access using token-based
 
 ---
 
- Project Structure
+📂 Project Structure
 
 com.example.demo
 ├── config        # Security & JWT Filter
@@ -32,7 +32,7 @@ com.example.demo
 
 ---
 
- Features
+🔐 Features
 
 - User Registration API
 - User Login API
@@ -60,7 +60,7 @@ Authorization: Bearer <token>
 
 ---
 
- API Endpoints
+📡 API Endpoints
 
 🔹 Register
 
@@ -76,7 +76,7 @@ GET /products
 
 ---
 
- Sample Request
+🧪 Sample Request
 
 Login Request
 
@@ -102,7 +102,7 @@ Example:
 
 ---
 
- Security Implementation
+🔐 Security Implementation
 
 - JWT-based authentication
 - Custom filter using "OncePerRequestFilter"
@@ -112,7 +112,7 @@ Example:
 
 ---
 
- How to Run
+🚀 How to Run
 
 1. Clone repo
 
@@ -126,14 +126,15 @@ git clone https://github.com/shivap1892/springboot-ecommerce-backend.git
 
 mvn spring-boot:run
 
---- 
-Author
+---
+
+💼 Author
 
 Shiva
 
 ---
 
- Future Enhancements
+🌟 Future Enhancements
 
 - Role-based authorization (ADMIN / USER)
 - Password encryption (BCrypt)
